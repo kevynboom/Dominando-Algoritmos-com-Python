@@ -9,4 +9,4 @@ Aqui estão guardados somente os códigos das **atividades práticas** do minicu
 
 > Com base nas videoaulas disponibilizadas no Teams:
 >
-> **Estou em: Trilha 01 — Aula 01**
+> **Estou em: Trilha 02 — Aula 01**
