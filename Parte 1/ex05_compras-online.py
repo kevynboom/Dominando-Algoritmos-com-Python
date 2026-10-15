@@ -1,4 +1,3 @@
-# 5. Faça um programa para calcular o valor final de uma compra, a partir do valor da compra e do cupom de desconto. O cupom diz a porcentagem do desconto.
 print("--- Calculadora de Desconto ---")
 valor_compra = float(input("Digite o valor da compra: R$"))
 desconto = float(input("Digite a porcentagem de desconto: "))

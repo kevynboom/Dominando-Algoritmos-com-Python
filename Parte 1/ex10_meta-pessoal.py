@@ -1,7 +1,3 @@
-# 10. Faça um programa que calcule em quanto tempo será possível alcançar uma meta pessoal e qual valor deverá ser poupado mensalmente para isso.
-# O usuário deverá informar a descrição da meta, o valor necessário para atingi-la, seu salário mensal e o total das despesas mensais.
-# Considere que, após descontar as despesas, o programa deve reservar automaticamente 30% do valor restante como economia fixa, e que o valor que
-# sobrar após essa reserva poderá ser destinado mensalmente para alcançar a meta.
 print("--- Meta Pessoal ---")
 descricao_meta = input("Digite a descrição da meta: ")
 valor_meta = float(input("Digite o valor necessário para atingir a meta: R$"))

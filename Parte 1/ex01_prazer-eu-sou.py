@@ -1,4 +1,4 @@
-# 1. Faça um programa que apresente um estudante universitário considerando seu nome, curso que estuda, semestre atual e seu hobby favorito.
+print("--- Prazer, Eu Sou... ---")
 nome = input("Digite o seu nome: ")
 curso = input("Digite qual o curso que você está fazendo: ")
 semestre = int(input("Digite apenas o número correspondente ao semestre em que você está no momento: "))

@@ -1,4 +1,3 @@
-# 7. Faça um programa que calcule o tempo que um livro será lido por uma pessoa a partir do nome do livro, do total de páginas e do tempo em segundos de leitura por página.
 print("--- Tempo de Leitura ---")
 nome_livro = input("Digite o nome do livro: ")
 paginas = int(input("Digite o total de páginas: "))

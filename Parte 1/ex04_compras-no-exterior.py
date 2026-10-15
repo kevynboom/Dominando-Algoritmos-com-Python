@@ -1,4 +1,3 @@
-# 4. Faça um programa para simular a conversão de um valor em real para dólar. Considere a cotação do dólar em R$ 5,42.
 cotacao = 5.42
 
 print("--- Conversor de Real para Dólar ---")
